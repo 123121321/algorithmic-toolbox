@@ -3,6 +3,13 @@
    line contains an integer n, and the second line contains n
    non negative integers a_1, . . ., a_n, separated by spaces */
 
+// TO DO
+// implement stress testing through random test generator,
+// result comparison, loop that tests whether results differ,
+// optimize mPwPrB further down from ~o(2n),
+// find a way to see roughly how much memory and time is needed
+// for each algorithm
+
 #include <stdio.h>
 #include <stdlib.h>
 
